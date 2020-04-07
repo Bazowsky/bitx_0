@@ -1,0 +1,3 @@
+<?php
+$MESS["LANDING_DEMO_WIKI_DARK_DETAIL_TITLE"] = "Äåòàëüíàÿ - ÒÅÌÍÛÉ ØÀÁËÎÍ";
+$MESS["LANDING_DEMO_WIKI_DARK_DETAIL_DESCRIPTION"] = "Îïèñàíèå äåòàëüíîé - ÒÅÌÍÛÉ ØÀÁËÎÍ";
